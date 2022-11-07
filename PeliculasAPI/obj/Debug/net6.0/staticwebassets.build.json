@@ -1,11 +1,37 @@
 {
   "Version": 1,
-  "Hash": "rAE2a66vr5441zM3VEifvr70y8sGVq4BKD05EE0OxZo=",
+  "Hash": "qx7xkWMjU8Yw2Mdhpt3TwQUrW1zcxC2H+NM8+4KnJGU=",
   "Source": "PeliculasAPI",
   "BasePath": "_content/PeliculasAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "PeliculasAPI\\wwwroot",
+      "Source": "PeliculasAPI",
+      "ContentRoot": "D:\\Desarrollados\\PeliculasAPI\\PeliculasAPI\\wwwroot\\",
+      "BasePath": "_content/PeliculasAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Desarrollados\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\7976ecc5-3ffe-4e2e-b6cd-024caeae4e56.jpg",
+      "SourceId": "PeliculasAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Desarrollados\\PeliculasAPI\\PeliculasAPI\\wwwroot\\",
+      "BasePath": "_content/PeliculasAPI",
+      "RelativePath": "actores/7976ecc5-3ffe-4e2e-b6cd-024caeae4e56.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\actores\\7976ecc5-3ffe-4e2e-b6cd-024caeae4e56.jpg"
+    }
+  ]
 }

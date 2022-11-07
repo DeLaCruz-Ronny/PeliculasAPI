@@ -57,3 +57,10 @@ D:\Desarrollados\PeliculasAPI\PeliculasAPI\bin\Debug\net6.0\runtimes\win\lib\net
 D:\Desarrollados\PeliculasAPI\PeliculasAPI\obj\Debug\net6.0\PeliculasAPI.csproj.CopyComplete
 D:\Desarrollados\PeliculasAPI\PeliculasAPI\bin\Debug\net6.0\AutoMapper.dll
 D:\Desarrollados\PeliculasAPI\PeliculasAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Desarrollados\PeliculasAPI\PeliculasAPI\bin\Debug\net6.0\PeliculasAPI.staticwebassets.runtime.json
+D:\Desarrollados\PeliculasAPI\PeliculasAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\Desarrollados\PeliculasAPI\PeliculasAPI\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+D:\Desarrollados\PeliculasAPI\PeliculasAPI\bin\Debug\net6.0\Azure.Storage.Common.dll
+D:\Desarrollados\PeliculasAPI\PeliculasAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desarrollados\PeliculasAPI\PeliculasAPI\bin\Debug\net6.0\System.IO.Hashing.dll
+D:\Desarrollados\PeliculasAPI\PeliculasAPI\bin\Debug\net6.0\System.Memory.Data.dll
