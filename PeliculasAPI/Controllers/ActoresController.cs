@@ -88,21 +88,24 @@ namespace PeliculasAPI.Controllers
             return NoContent();
         }
 
-        [HttpPatch("{id}")]
-        public async Task<ActionResult> Patch(int id, [FromBody] JsonPatchDocument patchDocument)
-        {
-            if (patchDocument == null)
-            {
-                return BadRequest();
-            }
+        //[HttpPatch("{id}")]
+        //public async Task<ActionResult> Patch(int id, [FromBody] JsonPatchDocument patchDocument)
+        //{
+        //    if (patchDocument == null)
+        //    {
+        //        return BadRequest();
+        //    }
 
-            var entidadDB = await context.Actores.FirstOrDefaultAsync(x => x.Id == id);
+        //    var entidadDB = await context.Actores.FirstOrDefaultAsync(x => x.Id == id);
 
-            if (entidadDB == null)
-            {
-                return NotFound();
-            }
-        }
+        //    if (entidadDB == null)
+        //    {
+        //        return NotFound();
+        //    }
+
+        //    var entidadDTO = mapper.Map<ActorPatchDTO>(entidadDB);
+        //    patchDocument.ApplyTo(entidadDTO,ModelState);
+        //}
 
         [HttpDelete("{id}")]
         public async Task<ActionResult> Delete(int id)
